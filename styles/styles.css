@@ -1,0 +1,13 @@
+/*Estilos generales*/
+body{
+    margin:0;
+}
+/*Cabecera*/
+.cabecera{
+    text-align: center;
+    border-bottom: 0.8px #e1e1e1 solid;
+}
+.cabecera span{
+    color: #073bc0;
+    text-align: center;
+}
