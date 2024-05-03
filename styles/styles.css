@@ -6,8 +6,22 @@ body{
 .cabecera{
     text-align: center;
     border-bottom: 0.8px #e1e1e1 solid;
+    display:flex;
 }
 .cabecera span{
     color: #073bc0;
     text-align: center;
+}
+/*Barra de navegacion*/
+.navegation{
+    text-align: center;
+}
+.navegation li{
+    display: inline;
+    margin-right: 30px;
+}
+/*Hero*/
+.hero{
+    width: 100%;
+    height: 550px;
 }
